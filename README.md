@@ -8,3 +8,4 @@ These are the scripts/programs for 305 - Linux Programming.
 - Difference between two numbers -> diff.sh
 - Multiplication of two numbers -> prod.sh
 - Division of two numbers -> quo.sh
+- Simple Interest -> SI.sh
