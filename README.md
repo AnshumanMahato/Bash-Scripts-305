@@ -14,3 +14,9 @@ These are the scripts/programs for 305 - Linux Programming.
 - Leap year check -> leap.sh
 - Comparison with 0 -> comp0.sh
 - Even Odd -> evod.sh
+
+### note:
+
+- file extension `<filename>.sh`
+- to run file `./<filename>.sh`
+- if you get some errors regarding permissions, run `chmod 764 <filename>.sh` and the execute the file.
